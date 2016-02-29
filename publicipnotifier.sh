@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Define messages and configuration variables
 IFCONFIGME_URL="ifconfig.me/ip"
